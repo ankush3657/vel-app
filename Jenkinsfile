@@ -9,6 +9,7 @@ pipeline
 			{
 				echo " Hello welcome to pipeline"
 				echo " sahi hai"
+				echo " dekho dekho"
 			}
 		}
 	}
