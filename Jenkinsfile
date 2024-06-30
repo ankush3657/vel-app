@@ -8,6 +8,7 @@ pipeline
 			steps
 			{
 				echo " Hello welcome to pipeline"
+				echo " sahi hai"
 			}
 		}
 	}
